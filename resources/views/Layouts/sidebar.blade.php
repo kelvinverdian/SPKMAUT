@@ -32,7 +32,7 @@
                             <li><a href="index3.html">Dashboard3</a></li>
                         </ul> -->
                     </li>
-                    <li><a><i class="fa fa-edit"></i> Data  <span class="fa fa-chevron-down"></span></a>
+                    <li><a href="DRCLateks  "><i class="fa fa-edit"></i> Data Kriteria </a>
                         {{-- <ul class="nav child_menu">
                             <li><a href="DRCLateks">DRC Lateks</a></li>
                             <li><a href="VFA">VFA</a></li>
