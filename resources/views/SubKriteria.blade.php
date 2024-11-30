@@ -6,7 +6,7 @@
     <div class="x_panel">
         <div class="x_content">
             <div class="d-flex justify-content-between">
-                <div><p class="h3">Data Kriteria</p></div>
+                <div><p class="h3">Sub Kriteria</p></div>
                 <div><a class="btn btn-success" href="/datakriteria">Tambah</a></div>
             </div>
             <div class="table-responsive">
@@ -23,7 +23,7 @@
                         </tr>
                     </thead>
                     
-                    <tbody>
+                    {{-- <tbody>
                         @if (count($datakriteria) > 0)
                             @foreach ($datakriteria as $data)
                             <tr>
@@ -41,7 +41,7 @@
                                 <th colspan="5" class="text-center">No Data</th>
                             </tr>
                         @endif
-                    </tbody>
+                    </tbody> --}}
                 </table>
             </div>
         </div>
